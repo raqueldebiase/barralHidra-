@@ -2,7 +2,7 @@ Projeto Barral Hidra + <br>
 
 Este projeto, denominado Barral Hidra +, foi desenvolvido durante meu tempo na empresa LPM Comunicação, onde atuei como web developer. Barral Hidra + é uma iniciativa que envolveu a colaboração de uma equipe interdisciplinar, buscando fornecer uma experiência digital aprimorada para os usuários.
 
-Tecnologias e ferramentas Utilizadas: <br>
+
 Durante o desenvolvimento deste projeto, foram utilizadas as seguintes tecnologias:
 
 <ul>
